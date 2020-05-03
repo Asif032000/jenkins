@@ -1,7 +1,0 @@
-.breadcrumb ::before content: {
-	$breadcrumb-divider: quote(">");
-}
-
-body{
-	position: relative;
-}
